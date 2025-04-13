@@ -38,6 +38,9 @@ I’m always eager to learn and explore new technologies.
 
 ### Frameworks
 - Laravel
+- Nextjs
+- Tailwindcss
+- Materializecss
   
 ### Tools
 - Visual Studio Code
