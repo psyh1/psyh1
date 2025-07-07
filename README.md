@@ -31,25 +31,12 @@ I’m always eager to learn and explore new technologies.
 
 ### Programming Languages
 - Rust
-- Python
-- Java
-- HTML
-- CSS
-- C#
-- Visual Basic
 
 ### Frameworks
 - Laravel
-- Nextjs
-- Tailwindcss
-- Materializecss
-- Expo
-  
+
 ### Tools
 - Visual Studio Code
-- Apache Netbeans
-- Eclipse IDE
-- Git
 
 ### Platforms
 - Github
