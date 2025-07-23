@@ -31,9 +31,12 @@ I’m always eager to learn and explore new technologies.
 
 ### Programming Languages
 - Rust
+- Python
+- C/C++
+- Java
 
 ### Frameworks
-- Laravel
+- 
 
 ### Tools
 - Visual Studio Code
@@ -43,6 +46,7 @@ I’m always eager to learn and explore new technologies.
 
 ### Technical Skills
 - Linux
+- Windows
 
 > If we pull together and commit ourselves, then we can push through anything.
 — *Mona the Octocat*
