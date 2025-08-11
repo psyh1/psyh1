@@ -31,9 +31,6 @@ I’m always eager to learn and explore new technologies.
 
 ### Programming Languages
 - Rust
-- Python
-- C/C++
-- Java
 
 ### Frameworks
 - 
