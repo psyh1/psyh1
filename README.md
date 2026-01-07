@@ -13,5 +13,5 @@ I’m a hobbyist—
 I have a keen interest in software development, robotics and ethical hacking—
 I’m always eager to learn and explore new technologies.
 
-> ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+> ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=nightowl)
 <!-- TO DO: add more details about me later -->
